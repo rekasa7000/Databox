@@ -1,0 +1,453 @@
+<?xml version="1.0"?>
+<doc>
+  <assembly>
+    <name>Apitron.PDF.Controls</name>
+  </assembly>
+  <members>
+    <member name="T:Apitron.PDF.Controls.DesignTime.PDFViewerDesigner">
+      <summary>
+            A designer implementation for <see cref="T:Apitron.PDF.Controls.PDFViewer" />.
+            </summary>
+    </member>
+    <member name="P:Apitron.PDF.Controls.DesignTime.PDFViewerDesigner.InitialZoom">
+      <summary>
+            TODO: Update summary.
+            </summary>
+    </member>
+    <member name="M:Apitron.PDF.Controls.DesignTime.PDFViewerDesigner.PostFilterProperties(System.Collections.IDictionary)">
+      <summary>
+            TODO: Update summary.
+            </summary>
+    </member>
+    <member name="T:Apitron.PDF.Controls.DesignTime.PDFViewerDesignerActionList">
+      <summary>
+            A designer action list.
+            </summary>
+    </member>
+    <member name="P:Apitron.PDF.Controls.DesignTime.PDFViewerDesignerActionList.ContentPadding">
+      <summary>
+            Gets or sets the content padding in pixels. Affects page view area.
+            </summary>
+      <value>
+            The content padding, default value is 10px for all page sides.
+            </value>
+    </member>
+    <member name="P:Apitron.PDF.Controls.DesignTime.PDFViewerDesignerActionList.ShowToolbar">
+      <summary>
+            Gets or sets the controls toolbar visibility state.
+            </summary>
+      <value>
+            True if controls toolbar should be visible, otherwise false.
+            </value>
+    </member>
+    <member name="P:Apitron.PDF.Controls.DesignTime.PDFViewerDesignerActionList.EnableSearch">
+      <summary>
+            Gets or sets the controls search panel visibility state.
+            </summary>
+      <value>
+            True if search panel should be visible, otherwise false.
+            </value>
+    </member>
+    <member name="P:Apitron.PDF.Controls.DesignTime.PDFViewerDesignerActionList.RenderingQuality">
+      <summary>
+            Gets or sets the rendering quality.
+            </summary>
+      <value>
+            The rendering quality.
+            </value>
+    </member>
+    <member name="P:Apitron.PDF.Controls.DesignTime.PDFViewerDesignerActionList.Zoom">
+      <summary>
+            Gets or sets the current zoom factor for the page view.
+            </summary>
+    </member>
+    <member name="P:Apitron.PDF.Controls.DesignTime.PDFViewerDesignerActionList.PageViewMode">
+      <summary>
+            Gets or sets the current page view mode.
+            </summary>
+    </member>
+    <member name="P:Apitron.PDF.Controls.DesignTime.PDFViewerDesignerActionList.Dock">
+      <summary>
+            Gets or sets the dock style.
+            </summary>
+    </member>
+    <member name="M:Apitron.PDF.Controls.DesignTime.PDFViewerDesignerActionList.GetSortedActionItems">
+      <summary>
+            TODO: Update summary.
+            </summary>
+    </member>
+    <member name="T:Apitron.PDF.Controls.IScrollViewer">
+      <summary>
+            This interface represents a scroll viewer.
+            </summary>
+    </member>
+    <member name="E:Apitron.PDF.Controls.IScrollViewer.Scroll">
+      <summary>
+            Occures when scroll viewer is scrolled.
+            </summary>
+    </member>
+    <member name="P:Apitron.PDF.Controls.IScrollViewer.Maximum">
+      <summary>
+            Gets the upper limit of values of scrollable range.
+            </summary>
+    </member>
+    <member name="P:Apitron.PDF.Controls.IScrollViewer.Minimum">
+      <summary>
+            Gets the lower limit of values of scrollable range.
+            </summary>
+    </member>
+    <member name="P:Apitron.PDF.Controls.IScrollViewer.SmallChange">
+      <summary>
+            Gets the large change of scroll box's value.
+            </summary>
+    </member>
+    <member name="P:Apitron.PDF.Controls.IScrollViewer.LargeChange">
+      <summary>
+            Gets the large change of scroll box's value.
+            </summary>
+    </member>
+    <member name="P:Apitron.PDF.Controls.IScrollViewer.MouseWheelDeltaFactor">
+      <summary>
+            Gets or sets a mouse wheel <see cref="P:System.Windows.Forms.MouseEventArgs.Delta" /> factor.
+            </summary>
+    </member>
+    <member name="T:Apitron.PDF.Controls.SearchCompletedEventArgs">
+      <summary>
+            Event args for <see cref="E:Apitron.PDF.Controls.PDFViewer.SearchCompleted" /> event.
+            </summary>
+    </member>
+    <member name="P:Apitron.PDF.Controls.SearchCompletedEventArgs.SearchResultItem">
+      <summary>
+            Gets the search result item found for the search request.
+            If the item is null, then nothing was found.
+            </summary>
+    </member>
+    <member name="P:Apitron.PDF.Controls.SearchCompletedEventArgs.CancelNavigation">
+      <summary>
+            Gets or sets a value indicating whether automatic navigation to search result should be canceled.
+            </summary>
+      <value>
+        <c>true</c> if navigation should be canceled; otherwise, <c>false</c>.
+            </value>
+      <default>
+            false
+            </default>
+    </member>
+    <member name="T:Apitron.PDF.Controls.PageViewMode">
+      <summary>
+            Enumeration that defines possible page fit modes for <see cref="T:Apitron.PDF.Controls.PDFViewer" />.
+            </summary>
+    </member>
+    <member name="F:Apitron.PDF.Controls.PageViewMode.Continuous">
+      <summary>
+            Continuous scolling with zoom factor applied, similar to <see cref="F:Apitron.PDF.Controls.PageViewMode.FitWidth" /></summary>
+    </member>
+    <member name="F:Apitron.PDF.Controls.PageViewMode.PageByPage">
+      <summary>
+            One page is displayed at once, if page doesn't fit it can be scrolled normally up and down.
+            If it is scrolled too much tha page switches. Similar to <see cref="F:Apitron.PDF.Controls.PageViewMode.FitPage" />.
+            </summary>
+    </member>
+    <member name="F:Apitron.PDF.Controls.PageViewMode.FitWidth">
+      <summary>
+            Continuous view, pages are adjusted to fit horizontally and can be scrolled smoothly.
+            </summary>
+    </member>
+    <member name="F:Apitron.PDF.Controls.PageViewMode.FitPage">
+      <summary>
+            Page by page view, pages are adjusted to fit in both directions, zoom factor may vary from page to page if their dimensions differ.
+            Scrolling works sequentally, page by page.
+            </summary>
+    </member>
+    <member name="T:Apitron.PDF.Controls.PDFViewer">
+      <summary>
+            Represents a PDF viewer control that can be used to show PDF documents.
+            </summary>
+    </member>
+    <member name="E:Apitron.PDF.Controls.PDFViewer.SearchRequested">
+      <summary>
+            Occurs when search activity is being requested.
+            The user should respond to this event and properly set the <see cref="T:Apitron.PDF.Rasterizer.Search.SearchIndex" /> for the document loaded.
+            </summary>
+    </member>
+    <member name="E:Apitron.PDF.Controls.PDFViewer.SearchCompleted">
+      <summary>
+            Occurs when search action is completed.
+            </summary>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewer.Hotkeys">
+      <summary>
+            Gets the hotkeys set.
+            </summary>
+      <value>
+            The hotkeys.
+            </value>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewer.Document">
+      <summary>
+            Gets or sets the document to view.
+            </summary>
+      <value>
+            The document.
+            </value>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewer.EnableSearch">
+      <summary>
+            Gets or sets the controls search panel visibility state.
+            </summary>
+      <value>
+            True if search panel should be visible, otherwise false.
+            </value>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewer.SearchManager">
+      <summary>
+            Gets the search manager.
+            </summary>
+      <value>
+            The search manager.
+            </value>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewer.EnableHotkeys">
+      <summary>
+            Gets or sets a value indicating whether hotkeys handling should be enabled.
+            </summary>
+      <value>
+        <c>true</c> if hotkeys should be enabled; otherwise, <c>false</c>.
+            </value>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewer.SearchHighlightColor">
+      <summary>
+            Gets or sets the highlight color for the search results.
+            </summary>
+      <value>
+            The color.
+            </value>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewer.BackColor">
+      <summary>
+            Gets or sets the background color.
+            </summary>
+      <value>
+            The color.
+            </value>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewer.ContentPadding">
+      <summary>
+            Gets or sets the content padding in pixels. Affects page view area.
+            </summary>
+      <value>
+            The content padding, default value is 10px for all page sides.
+            </value>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewer.ShowToolbar">
+      <summary>
+            Gets or sets the controls toolbar visibility state.
+            </summary>
+      <value>
+            True if controls toolbar should be visible, otherwise false.
+            </value>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewer.RenderingQuality">
+      <summary>
+            Gets or sets the rendering quality.
+            </summary>
+      <value>
+            The rendering quality.
+            </value>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewer.Zoom">
+      <summary>
+            Gets or sets the current zoom factor for the page view.
+            </summary>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewer.PageViewMode">
+      <summary>
+            Gets or sets the current page view mode.
+            </summary>
+    </member>
+    <member name="M:Apitron.PDF.Controls.PDFViewer.#ctor">
+      <summary>
+            Initializes a new instance of the <see cref="T:Apitron.PDF.Controls.PDFViewer" /> class.
+            </summary>
+    </member>
+    <member name="M:Apitron.PDF.Controls.PDFViewer.NavigateToSearchResultItem(Apitron.PDF.Rasterizer.Search.SearchResultItem)">
+      <summary>
+            Navigates to the search result item.
+            </summary>
+      <param name="item">The search result item.</param>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewer.Focused">
+      <summary>
+            Gets a value indicating whether the control has input focus.
+            </summary>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewer.Toolbar">
+      <summary>
+            Gets the toolbar of the viewer. 
+            </summary>
+    </member>
+    <member name="T:Apitron.PDF.Controls.RenderingQuality">
+      <summary>
+            Defines possible rendering quality values.
+            </summary>
+    </member>
+    <member name="F:Apitron.PDF.Controls.RenderingQuality.Normal">
+      <summary>
+            Normal quality.
+            </summary>
+    </member>
+    <member name="F:Apitron.PDF.Controls.RenderingQuality.High">
+      <summary>
+            High quality, takes more time to render but results are better.
+            </summary>
+    </member>
+    <member name="T:Apitron.PDF.Controls.SearchRequestedEventArgs">
+      <summary>
+            Event args for <see cref="E:Apitron.PDF.Controls.PDFViewer.SearchRequested" /> event.
+            </summary>
+    </member>
+    <member name="P:Apitron.PDF.Controls.SearchRequestedEventArgs.SearchIndex">
+      <summary>
+            Gets or sets the search index to search into. You have to set the search index here or leave it null to ignore the request.
+            </summary>
+      <value>
+            The search index.
+            </value>
+    </member>
+    <member name="T:Apitron.PDF.Controls.Search.SearchManager">
+      <summary>
+            This class represents a search manager.
+            </summary>
+    </member>
+    <member name="P:Apitron.PDF.Controls.Search.SearchManager.CurrentItem">
+      <summary>
+            Gets the current item.
+            </summary>
+      <value>
+            The current item.
+            </value>
+    </member>
+    <member name="M:Apitron.PDF.Controls.Search.SearchManager.Reset">
+      <summary>
+            Resets this instance.
+            </summary>
+    </member>
+    <member name="M:Apitron.PDF.Controls.Search.SearchManager.GetNext(System.String)">
+      <summary>
+            Gets the next search result.
+            </summary>
+      <param name="text">The text to search.</param>
+      <returns>Returns the next matched result.</returns>
+    </member>
+    <member name="M:Apitron.PDF.Controls.Search.SearchManager.GetPrev(System.String)">
+      <summary>
+            Gets the prev search result.
+            </summary>
+      <param name="text">The text to search.</param>
+      <returns>Returns the prev matched result.</returns>
+    </member>
+    <member name="T:Apitron.PDF.Controls.PDFViewerHotkeys">
+      <summary>
+            Defines hotkeys used in <see cref="T:Apitron.PDF.Controls.PDFViewer" />.
+            </summary>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewerHotkeys.NavigateBack">
+      <summary>
+            Gets or sets the navigate back hotkey.
+            </summary>
+      <default>
+        <see cref="F:System.Windows.Forms.Keys.Left" />
+      </default>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewerHotkeys.NavigateForward">
+      <summary>
+            Gets or sets the navigate forward hotkey.
+            </summary>
+      <default>
+        <see cref="F:System.Windows.Forms.Keys.Right" />
+      </default>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewerHotkeys.ScrollUp">
+      <summary>
+            Gets or sets the scroll up hotkey.
+            </summary>
+      <default>
+        <see cref="F:System.Windows.Forms.Keys.Up" />
+      </default>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewerHotkeys.ScrollDown">
+      <summary>
+            Gets or sets the scroll down hotkey.
+            </summary>
+      <default>
+        <see cref="F:System.Windows.Forms.Keys.Down" />
+      </default>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewerHotkeys.PageUp">
+      <summary>
+            Gets or sets the page up hotkey.
+            </summary>
+      <default>
+        <see cref="F:System.Windows.Forms.Keys.PageUp" />
+      </default>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewerHotkeys.PageDown">
+      <summary>
+            Gets or sets the page down hotkey
+            </summary>
+      <default>
+        <see cref="F:System.Windows.Forms.Keys.PageDown" />
+      </default>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewerHotkeys.ZoomIn">
+      <summary>
+            Gets or sets the zoom in hotkey.
+            </summary>
+      <default>
+        <see cref="F:System.Windows.Forms.Keys.Add" />
+      </default>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewerHotkeys.ZoomOut">
+      <summary>
+            Gets or sets the zoom out hotkey.
+            </summary>
+      <default>
+        <see cref="F:System.Windows.Forms.Keys.Subtract" />
+      </default>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewerHotkeys.MouseWheelZoomModifier">
+      <summary>
+            Gets or sets the mouse wheel zoom modifier key, 
+            user must press and hold it to get the zoom working with the mouse wheel.
+            </summary>
+      <value>
+            The mouse wheel zoom modifier.
+            </value>
+      <default>
+        <see cref="F:System.Windows.Forms.Keys.Control" />
+      </default>
+    </member>
+    <member name="P:Apitron.PDF.Controls.PDFViewerHotkeys.ActivateSearch">
+      <summary>
+            Gets or sets the search text hotkey,
+            activates search text box on a toolbar.
+            </summary>
+      <value>
+            The search text.
+            </value>
+      <default>
+        <see cref="F:System.Windows.Forms.Keys.Control" /> + <see cref="F:System.Windows.Forms.Keys.F" /></default>
+    </member>
+    <member name="M:Apitron.PDF.Controls.PDFViewerHotkeys.ToString">
+      <summary>
+            ToString();
+            </summary>
+      <returns>
+            Returns a <see cref="T:System.String" /> that represents the current object.
+            </returns>
+    </member>
+    <member name="T:SmartAssembly.Attributes.PoweredByAttribute">
+      <exclude />
+    </member>
+  </members>
+</doc>

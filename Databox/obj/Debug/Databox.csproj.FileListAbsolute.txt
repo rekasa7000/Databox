@@ -1,0 +1,597 @@
+C:\Users\tukayo\source\repos\Databox\Databox\bin\Debug\Databox.exe.config
+C:\Users\tukayo\source\repos\Databox\Databox\bin\Debug\Databox.exe
+C:\Users\tukayo\source\repos\Databox\Databox\bin\Debug\Databox.pdb
+C:\Users\tukayo\source\repos\Databox\Databox\obj\Debug\Databox.csproj.AssemblyReference.cache
+C:\Users\tukayo\source\repos\Databox\Databox\obj\Debug\Databox.Properties.Resources.resources
+C:\Users\tukayo\source\repos\Databox\Databox\obj\Debug\Databox.csproj.GenerateResource.cache
+C:\Users\tukayo\source\repos\Databox\Databox\obj\Debug\Databox.csproj.CoreCompileInputs.cache
+C:\Users\tukayo\source\repos\Databox\Databox\obj\Debug\Databox.exe
+C:\Users\tukayo\source\repos\Databox\Databox\obj\Debug\Databox.pdb
+C:\Users\tukayo\source\repos\Databox\Databox\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tukayo\source\repos\Databox\Databox\obj\Debug\Databox.csproj.CopyComplete
+C:\Users\tukayo\source\repos\Databox\Databox\obj\Debug\Databox.StudentDashboard.resources
+C:\Users\tukayo\source\repos\Databox\Databox\obj\Debug\Databox.TeacherDashboard.resources
+C:\Users\tukayo\source\repos\Databox\Databox\obj\Debug\Databox.LogReg.resources
+C:\Users\tukayo\source\repos\Databox\Databox\bin\Debug\Databox.exe.manifest
+C:\Users\tukayo\source\repos\Databox\Databox\bin\Debug\Databox.application
+C:\Users\tukayo\source\repos\Databox\Databox\obj\Debug\Databox.exe.manifest
+C:\Users\tukayo\source\repos\Databox\Databox\obj\Debug\Databox.application
+C:\Users\tukayo\source\repos\Databox\Databox\obj\Debug\Databox.Register.resources
+C:\Users\tukayo\source\repos\Databox\Databox\obj\Debug\Databox.Student_Information.resources
+C:\Users\tukayo\source\repos\Databox\Databox\obj\Debug\Databox.Teacher_Info.resources
+C:\Users\tukayo\source\repos\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.TeacherBoard.resources
+C:\Users\tukayo\source\repos\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassAdd.resources
+C:\Users\tukayo\source\repos\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassArchive.resources
+C:\Users\tukayo\source\repos\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassEdit.resources
+C:\Users\tukayo\source\repos\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassView.resources
+C:\Users\tukayo\source\repos\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleAdd.resources
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\bin\Debug\Databox.exe.config
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\bin\Debug\Databox.exe.manifest
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\bin\Debug\Databox.application
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\bin\Debug\Databox.exe
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\bin\Debug\Databox.pdb
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\bin\Debug\MetroFramework.Design.dll
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\bin\Debug\MetroFramework.dll
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.csproj.AssemblyReference.cache
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.Register.resources
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.StudentDashboard.resources
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.Student_Information.resources
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassAdd.resources
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassArchive.resources
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassEdit.resources
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassView.resources
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleAdd.resources
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.TeacherBoard.resources
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.TeacherDashboard.resources
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.LogReg.resources
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.Properties.Resources.resources
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.Teacher_Info.resources
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.csproj.GenerateResource.cache
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.csproj.CoreCompileInputs.cache
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.exe.manifest
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.application
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.csproj.CopyComplete
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.exe
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.pdb
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleView.resources
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleEdit.resources
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleArchive.resources
+C:\Users\tukayo\Documents\backup\2\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.TaskView.resources
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\Databox.exe.config
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\Databox.exe.manifest
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\Databox.application
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\Databox.exe
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\Databox.pdb
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\Google.Protobuf.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\MetroFramework.Design.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\MetroFramework.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\MySql.Data.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\System.Buffers.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\System.Collections.Immutable.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\System.IO.Pipelines.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\System.Linq.Async.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\System.Memory.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\System.ValueTuple.dll
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\Google.Protobuf.pdb
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\Google.Protobuf.xml
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\MySql.Data.xml
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\System.Buffers.xml
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\System.Collections.Immutable.xml
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\System.IO.Pipelines.xml
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\System.Linq.Async.xml
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\System.Memory.xml
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\bin\Debug\System.ValueTuple.xml
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.csproj.AssemblyReference.cache
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.Register.resources
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.StudentDashboard.resources
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.Student_Information.resources
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassAdd.resources
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassArchive.resources
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassEdit.resources
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassView.resources
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleAdd.resources
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleArchive.resources
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleEdit.resources
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleView.resources
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.TaskView.resources
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.TeacherBoard.resources
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.TeacherDashboard.resources
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.LogReg.resources
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.Properties.Resources.resources
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.Teacher_Info.resources
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.csproj.GenerateResource.cache
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.csproj.CoreCompileInputs.cache
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.exe.manifest
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.application
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.csproj.CopyComplete
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.exe
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.pdb
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.Controls.AuthCode.resources
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.Controls.ClassCode.resources
+C:\Users\tukayo\Documents\backup\main\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.TaskAdd.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Controls.Authcode.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Controls.ClassCode.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Register.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.StudentDashboard.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Student_Information.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassAdd.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassArchive.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassEdit.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassView.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleAdd.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleArchive.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleEdit.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleView.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.TaskAdd.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.TaskView.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.TeacherBoard.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.TeacherDashboard.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.LogReg.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Properties.Resources.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Teacher_Info.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.csproj.GenerateResource.cache
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.csproj.CoreCompileInputs.cache
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.exe
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.pdb
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\Databox.exe.config
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\Databox.exe.manifest
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\Databox.application
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\Databox.exe
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\Databox.pdb
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\Google.Protobuf.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\MetroFramework.Design.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\MetroFramework.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\MySql.Data.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\System.Buffers.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\System.Collections.Immutable.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\System.IO.Pipelines.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\System.Linq.Async.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\System.Memory.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\System.ValueTuple.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\Google.Protobuf.pdb
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\Google.Protobuf.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\MySql.Data.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\System.Buffers.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\System.Collections.Immutable.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\System.IO.Pipelines.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\System.Linq.Async.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\System.Memory.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\System.ValueTuple.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.exe.manifest
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.application
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.csproj.CopyComplete
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Controls.AddLink.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\HtmlAgilityPack.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\HtmlAgilityPack.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.TaskEdit.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.Classes.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.StudentClasses.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.AddClass.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.ArchivedClasses.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.TaskArchive.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.TaskSubmitted.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.TaskAssigned.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.TaskMissing.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.Task.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\NodaTime.dll
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\NodaTime.pdb
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\NodaTime.xml
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.SubmittedTasks.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.csproj.AssemblyReference.cache
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ReturnTask.resources
+C:\Users\tukayo\Documents\backup\main\main 1\Databox\Databox\bin\Debug\MaterialSkin.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.csproj.AssemblyReference.cache
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Controls.AddLink.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Controls.Authcode.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Controls.ClassCode.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Register.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.AddClass.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.ArchivedClasses.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.StudentClasses.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.Task.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.TaskAssigned.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.TaskMissing.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.TaskSubmitted.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.StudentDashboard.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Student_Information.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassAdd.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassArchive.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassEdit.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.Classes.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassView.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ReturnTask.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleAdd.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleArchive.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleEdit.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleView.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.SubmittedTasks.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.TaskAdd.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.TaskArchive.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.TaskEdit.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.TaskView.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.TeacherBoard.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.TeacherDashboard.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.LogReg.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Properties.Resources.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Teacher_Info.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.csproj.GenerateResource.cache
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.csproj.CoreCompileInputs.cache
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.exe
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.pdb
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\Databox.exe.config
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\Databox.exe.manifest
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\Databox.application
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\Databox.exe
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\Databox.pdb
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\Google.Protobuf.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\HtmlAgilityPack.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\MaterialSkin.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\MetroFramework.Design.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\MetroFramework.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\MySql.Data.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\NodaTime.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\System.Buffers.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\System.Collections.Immutable.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\System.IO.Pipelines.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\System.Linq.Async.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\System.Memory.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\System.ValueTuple.dll
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\Google.Protobuf.pdb
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\Google.Protobuf.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\HtmlAgilityPack.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\MySql.Data.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\NodaTime.pdb
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\NodaTime.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\System.Buffers.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\System.Collections.Immutable.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\System.IO.Pipelines.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\System.Linq.Async.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\System.Memory.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\bin\Debug\System.ValueTuple.xml
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.exe.manifest
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.application
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.csproj.CopyComplete
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleActiveStudent.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.scheduleArchivedStudent.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ProgressGraph.resources
+C:\Users\tukayo\Documents\backup\main\main 3\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.StudentProgressList.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\Databox.exe.config
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\Databox.exe.manifest
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\Databox.application
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\Databox.exe
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\Databox.pdb
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\Google.Protobuf.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\HtmlAgilityPack.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\MaterialSkin.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\MetroFramework.Design.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\MetroFramework.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\MySql.Data.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\NodaTime.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\System.Buffers.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\System.Collections.Immutable.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\System.IO.Pipelines.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\System.Linq.Async.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\System.Memory.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\System.ValueTuple.dll
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\Google.Protobuf.pdb
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\Google.Protobuf.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\HtmlAgilityPack.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\MySql.Data.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\NodaTime.pdb
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\NodaTime.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\System.Buffers.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\System.Collections.Immutable.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\System.IO.Pipelines.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\System.Linq.Async.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\System.Memory.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\bin\Debug\System.ValueTuple.xml
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Controls.AddLink.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Controls.Authcode.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Controls.ClassCode.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Register.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.AddClass.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.ArchivedClasses.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.StudentClasses.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.Task.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.TaskAssigned.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.TaskMissing.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.TaskSubmitted.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.StudentDashboard.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Student_Information.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassAdd.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassArchive.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassEdit.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.Classes.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassView.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ProgressGraph.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ReturnTask.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleActiveStudent.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleAdd.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleArchive.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.scheduleArchivedStudent.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleEdit.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleView.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.StudentProgressList.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.SubmittedTasks.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.TaskAdd.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.TaskArchive.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.TaskEdit.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.TaskView.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.TeacherDashboard.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.LogReg.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Properties.Resources.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.Teacher_Info.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.csproj.GenerateResource.cache
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.csproj.CoreCompileInputs.cache
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.exe.manifest
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.application
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.csproj.CopyComplete
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.exe
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.pdb
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.csproj.AssemblyReference.cache
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\RdlCompile.cache
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\RdlCompile.compiled
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.exe.config
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.ChangePassword.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.PersonalInformation.resources
+C:\Users\tukayo\Documents\backup\main\june 12\Databox\Databox\obj\Debug\Databox.EmailPassword.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Databox.exe.config
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Databox.exe.manifest
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Databox.application
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Databox.exe
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Databox.pdb
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Google.Protobuf.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\HtmlAgilityPack.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.barcodes.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.commons.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.forms.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.io.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.kernel.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.layout.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.pdfa.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.sign.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.styledxmlparser.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.svg.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\MaterialSkin.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\MetroFramework.Design.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\MetroFramework.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\MySql.Data.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\System.Buffers.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\System.Collections.Immutable.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\System.IO.Pipelines.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\System.Linq.Async.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\System.Memory.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\System.ValueTuple.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Google.Protobuf.pdb
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Google.Protobuf.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\HtmlAgilityPack.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.barcodes.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.commons.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.forms.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.io.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.kernel.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.layout.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.pdfa.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.sign.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.styledxmlparser.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.svg.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\MySql.Data.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\System.Buffers.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\System.Collections.Immutable.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\System.IO.Pipelines.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\System.Linq.Async.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\System.Memory.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\System.ValueTuple.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.ChangePassword.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Controls.AddLink.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Controls.Authcode.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Controls.ClassCode.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.EmailPassword.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.PersonalInformation.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Register.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.ReportViewer.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.AddClass.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.ArchivedClasses.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.ClassSchedules.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.StudentClasses.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.StudentSchedules.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.Task.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.TaskAssigned.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.TaskMissing.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.TaskSubmitted.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.StudentDashboard.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Student_Information.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassAdd.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassArchive.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassEdit.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.Classes.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ClassView.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ProgressGraph.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ReturnTask.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleActiveStudent.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleAdd.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleArchive.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.scheduleArchivedStudent.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleEdit.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.ScheduleView.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.StudentProgressList.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.SubmittedTasks.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.TaskAdd.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.TaskArchive.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.TaskEdit.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Teacher_Additional_Forms.More_Forms.TaskView.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.TeacherDashboard.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.LogReg.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Properties.Resources.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Teacher_Info.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.csproj.GenerateResource.cache
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.csproj.CoreCompileInputs.cache
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.exe.manifest
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.application
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.csproj.CopyComplete
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.exe
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.pdb
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\ZstdNet.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Apitron.PDF.Controls.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Apitron.PDF.Controls.xml
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.Student_Additional_Forms.More_Forms.Reports.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.ReminderForm.resources
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.csproj.AssemblyReference.cache
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\tukayo\Documents\backup\main\june 16\Databox\Databox\obj\Debug\Databox.csproj.ResolveComReference.cache

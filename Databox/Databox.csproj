@@ -1,0 +1,725 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DFB8C562-1977-48A1-A58D-E3DE5D62FF36}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Databox</RootNamespace>
+    <AssemblyName>Databox</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>D:\publish\4\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>7</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>974BFB501861E2BC4369F29F4E417FE8337B6E1E</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Databox_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Untitled.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Apitron.PDF.Controls, Version=1.0.170.0, Culture=neutral, PublicKeyToken=6e759dbb0039406e, processorArchitecture=MSIL">
+      <HintPath>..\packages\Apitron.PDF.Controls.1.0.170\lib\net472\Apitron.PDF.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Apitron.PDF.Rasterizer, Version=3.0.170.0, Culture=neutral, PublicKeyToken=6e759dbb0039406e, processorArchitecture=MSIL">
+      <HintPath>..\packages\Apitron.PDF.Controls.1.0.170\lib\net472\Apitron.PDF.Rasterizer.dll</HintPath>
+    </Reference>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.10.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
+      <HintPath>..\packages\Portable.BouncyCastle.1.8.10\lib\net40\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=6.3.0.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.3.0\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.21.9.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.21.9\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack, Version=1.11.46.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlAgilityPack.1.11.46\lib\Net45\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.barcodes, Version=8.0.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.8.0.0\lib\net461\itext.barcodes.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.bouncy-castle-adapter, Version=8.0.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.bouncy-castle-adapter.8.0.0\lib\net461\itext.bouncy-castle-adapter.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.bouncy-castle-connector, Version=8.0.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.8.0.0\lib\net461\itext.bouncy-castle-connector.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.commons, Version=8.0.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.commons.8.0.0\lib\net461\itext.commons.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.forms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.8.0.0\lib\net461\itext.forms.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.io, Version=8.0.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.8.0.0\lib\net461\itext.io.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.kernel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.8.0.0\lib\net461\itext.kernel.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.layout, Version=8.0.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.8.0.0\lib\net461\itext.layout.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.pdfa, Version=8.0.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.8.0.0\lib\net461\itext.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.sign, Version=8.0.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.8.0.0\lib\net461\itext.sign.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.styledxmlparser, Version=8.0.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.8.0.0\lib\net461\itext.styledxmlparser.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.svg, Version=8.0.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.8.0.0\lib\net461\itext.svg.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.3.5.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.1.3.5\lib\net462\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.3.5.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.Streams.1.3.5\lib\net462\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.8.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Hash.xxHash.1.0.8\lib\net462\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=2.3.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.2.2.3.1\lib\net461\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.6.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.5.0.0\lib\net461\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.6.0.0\lib\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.5.0.0\lib\net461\Microsoft.Extensions.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.5.0.0\lib\net461\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Options, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Options.5.0.0\lib\net461\Microsoft.Extensions.Options.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Primitives.5.0.0\lib\net461\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.29.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.29\lib\net452\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Immutable, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Collections.Immutable.6.0.0\lib\net461\System.Collections.Immutable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.5.0.0\lib\net46\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Pipelines, Version=5.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Pipelines.5.0.2\lib\net461\System.IO.Pipelines.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Async, Version=6.0.0.0, Culture=neutral, PublicKeyToken=94bc3704cddfc263, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Linq.Async.6.0.1\lib\netstandard2.0\System.Linq.Async.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tulpep.NotificationWindow, Version=1.1.38.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Tulpep.NotificationWindow.1.1.38\lib\net40\Tulpep.NotificationWindow.dll</HintPath>
+    </Reference>
+    <Reference Include="Ubiety.Dns.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.29\lib\net452\Ubiety.Dns.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="ZstdNet, Version=1.4.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.29\lib\net452\ZstdNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppointmentChecker.cs" />
+    <Compile Include="Authenticate.cs" />
+    <Compile Include="ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePassword.Designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AddLink.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\AddLink.Designer.cs">
+      <DependentUpon>AddLink.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ClassCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\ClassCode.Designer.cs">
+      <DependentUpon>ClassCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DataboxDropDown.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DropdownMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Authcode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\Authcode.Designer.cs">
+      <DependentUpon>Authcode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MenuColorTable.cs" />
+    <Compile Include="Controls\MenuRenderer.cs" />
+    <Compile Include="Database Connection.cs" />
+    <Compile Include="Email.cs" />
+    <Compile Include="EmailPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmailPassword.Designer.cs">
+      <DependentUpon>EmailPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FileData.cs" />
+    <Compile Include="PersonalInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonalInformation.Designer.cs">
+      <DependentUpon>PersonalInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReminderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReminderForm.Designer.cs">
+      <DependentUpon>ReminderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportViewer.Designer.cs">
+      <DependentUpon>ReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ScheduleChecker.cs" />
+    <Compile Include="SessionData.cs" />
+    <Compile Include="SessionManager.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="Student Additional Forms\More Forms\AddClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student Additional Forms\More Forms\AddClass.Designer.cs">
+      <DependentUpon>AddClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student Additional Forms\More Forms\ArchivedClasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student Additional Forms\More Forms\ArchivedClasses.Designer.cs">
+      <DependentUpon>ArchivedClasses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student Additional Forms\More Forms\ClassSchedules.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student Additional Forms\More Forms\ClassSchedules.Designer.cs">
+      <DependentUpon>ClassSchedules.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student Additional Forms\More Forms\Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student Additional Forms\More Forms\Reports.Designer.cs">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student Additional Forms\More Forms\StudentClasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student Additional Forms\More Forms\StudentClasses.Designer.cs">
+      <DependentUpon>StudentClasses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student Additional Forms\More Forms\StudentSchedules.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student Additional Forms\More Forms\StudentSchedules.Designer.cs">
+      <DependentUpon>StudentSchedules.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student Additional Forms\More Forms\Task.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student Additional Forms\More Forms\Task.Designer.cs">
+      <DependentUpon>Task.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student Additional Forms\More Forms\TaskAssigned.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student Additional Forms\More Forms\TaskAssigned.Designer.cs">
+      <DependentUpon>TaskAssigned.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student Additional Forms\More Forms\TaskDocument.cs" />
+    <Compile Include="Student Additional Forms\More Forms\TaskMissing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student Additional Forms\More Forms\TaskMissing.Designer.cs">
+      <DependentUpon>TaskMissing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student Additional Forms\More Forms\TaskSubmitted.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student Additional Forms\More Forms\TaskSubmitted.Designer.cs">
+      <DependentUpon>TaskSubmitted.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student Menu.Designer.cs">
+      <DependentUpon>Student Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student Information.Designer.cs">
+      <DependentUpon>Student Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentAppointmentScheduler.cs" />
+    <Compile Include="StudentClassScheduler.cs" />
+    <Compile Include="Teacher Additional Forms\More Forms\ClassAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\ClassAdd.Designer.cs">
+      <DependentUpon>ClassAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\ClassArchive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\ClassArchive.Designer.cs">
+      <DependentUpon>ClassArchive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\ClassEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\ClassEdit.Designer.cs">
+      <DependentUpon>ClassEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\Classes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\Classes.Designer.cs">
+      <DependentUpon>Classes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\ClassView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\ClassView.Designer.cs">
+      <DependentUpon>ClassView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\ProgressGraph.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\ProgressGraph.Designer.cs">
+      <DependentUpon>ProgressGraph.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\ReturnTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\ReturnTask.Designer.cs">
+      <DependentUpon>ReturnTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\ScheduleActiveStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\ScheduleActiveStudent.Designer.cs">
+      <DependentUpon>ScheduleActiveStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\ScheduleAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\ScheduleAdd.Designer.cs">
+      <DependentUpon>ScheduleAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\ScheduleArchive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\ScheduleArchive.Designer.cs">
+      <DependentUpon>ScheduleArchive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\scheduleArchivedStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\scheduleArchivedStudent.Designer.cs">
+      <DependentUpon>scheduleArchivedStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\ScheduleEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\ScheduleEdit.Designer.cs">
+      <DependentUpon>ScheduleEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\ScheduleView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\ScheduleView.Designer.cs">
+      <DependentUpon>ScheduleView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\StudentProgressList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\StudentProgressList.Designer.cs">
+      <DependentUpon>StudentProgressList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\SubmittedTasks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\SubmittedTasks.Designer.cs">
+      <DependentUpon>SubmittedTasks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\TaskAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\TaskAdd.Designer.cs">
+      <DependentUpon>TaskAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\TaskArchive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\TaskArchive.Designer.cs">
+      <DependentUpon>TaskArchive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\TaskDocument.cs" />
+    <Compile Include="Teacher Additional Forms\More Forms\TaskEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\TaskEdit.Designer.cs">
+      <DependentUpon>TaskEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\TaskView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Additional Forms\More Forms\TaskView.Designer.cs">
+      <DependentUpon>TaskView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Menu.Designer.cs">
+      <DependentUpon>Teacher Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Teacher Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher Information.Designer.cs">
+      <DependentUpon>Teacher Information.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\AddLink.resx">
+      <DependentUpon>AddLink.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Authcode.resx">
+      <DependentUpon>Authcode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ClassCode.resx">
+      <DependentUpon>ClassCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmailPassword.resx">
+      <DependentUpon>EmailPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonalInformation.resx">
+      <DependentUpon>PersonalInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReminderForm.resx">
+      <DependentUpon>ReminderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportViewer.resx">
+      <DependentUpon>ReportViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student Additional Forms\More Forms\AddClass.resx">
+      <DependentUpon>AddClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student Additional Forms\More Forms\ArchivedClasses.resx">
+      <DependentUpon>ArchivedClasses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student Additional Forms\More Forms\ClassSchedules.resx">
+      <DependentUpon>ClassSchedules.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student Additional Forms\More Forms\Reports.resx">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student Additional Forms\More Forms\StudentClasses.resx">
+      <DependentUpon>StudentClasses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student Additional Forms\More Forms\StudentSchedules.resx">
+      <DependentUpon>StudentSchedules.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student Additional Forms\More Forms\Task.resx">
+      <DependentUpon>Task.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student Additional Forms\More Forms\TaskAssigned.resx">
+      <DependentUpon>TaskAssigned.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student Additional Forms\More Forms\TaskMissing.resx">
+      <DependentUpon>TaskMissing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student Additional Forms\More Forms\TaskSubmitted.resx">
+      <DependentUpon>TaskSubmitted.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student Menu.resx">
+      <DependentUpon>Student Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student Information.resx">
+      <DependentUpon>Student Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Additional Forms\More Forms\ClassAdd.resx">
+      <DependentUpon>ClassAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Additional Forms\More Forms\ClassArchive.resx">
+      <DependentUpon>ClassArchive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Additional Forms\More Forms\ClassEdit.resx">
+      <DependentUpon>ClassEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Additional Forms\More Forms\Classes.resx">
+      <DependentUpon>Classes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Additional Forms\More Forms\ClassView.resx">
+      <DependentUpon>ClassView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Additional Forms\More Forms\ProgressGraph.resx">
+      <DependentUpon>ProgressGraph.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Additional Forms\More Forms\ReturnTask.resx">
+      <DependentUpon>ReturnTask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Additional Forms\More Forms\ScheduleActiveStudent.resx">
+      <DependentUpon>ScheduleActiveStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Additional Forms\More Forms\ScheduleAdd.resx">
+      <DependentUpon>ScheduleAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Additional Forms\More Forms\ScheduleArchive.resx">
+      <DependentUpon>ScheduleArchive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Additional Forms\More Forms\scheduleArchivedStudent.resx">
+      <DependentUpon>scheduleArchivedStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Additional Forms\More Forms\ScheduleEdit.resx">
+      <DependentUpon>ScheduleEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Additional Forms\More Forms\ScheduleView.resx">
+      <DependentUpon>ScheduleView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Additional Forms\More Forms\StudentProgressList.resx">
+      <DependentUpon>StudentProgressList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Additional Forms\More Forms\SubmittedTasks.resx">
+      <DependentUpon>SubmittedTasks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Additional Forms\More Forms\TaskAdd.resx">
+      <DependentUpon>TaskAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Additional Forms\More Forms\TaskArchive.resx">
+      <DependentUpon>TaskArchive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Additional Forms\More Forms\TaskEdit.resx">
+      <DependentUpon>TaskEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Additional Forms\More Forms\TaskView.resx">
+      <DependentUpon>TaskView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher Menu.resx">
+      <DependentUpon>Teacher Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Teacher Information.resx">
+      <DependentUpon>Teacher Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Databox_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.png" />
+    <None Include="Resources\Untitled.png" />
+    <Content Include="Untitled.ico" />
+    <Content Include="logo-1.ico" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="IWshRuntimeLibrary">
+      <Guid>{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
