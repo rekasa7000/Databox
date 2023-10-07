@@ -1,12 +1,17 @@
-DATABOX: Teacher-Student Scheduler and Student-Exclusive progress tracker
+**DATABOX: Teacher-Student Scheduler and Student-Exclusive progress tracker**
 
 A Research Project - Software Development
 
+**Statement of the problem**
+---------------------------------------------------------------------------------------------------
 The main problem of this study is how to develop and implement a user-friendly digital scheduler and progress tracker that addresses the challenges of time management and organization in the era of online learning for students and teachers, which affects their academic performance and productivity, and to look into its effectiveness in improving academic performance and achieving academic goals.
 
+**Software and Hardware Requirements**
+---------------------------------------------------------------------------------------------------
 C# programming language, .NET framework, XAMPP, MySQL database for software requirements and Computer System or laptop and router for hardware requirements.
 
 **PICTURE EXAMPLES**
+---------------------------------------------------------------------------------------------------
 
 Login Form
 ---------------------------------------------------------------------------------------------------
@@ -50,7 +55,8 @@ Academic Progress of student (Teacher Menu)
 ![image](https://github.com/rekasaaaa/Databox/assets/81959401/76f072ca-d17c-48f9-a861-7c64538a2df4)
 
 
+---------------------------------------------------------------------------------------------------
 In summary, DATABOX serves as a scheduler and progress tracker, simplifying task management,
 scheduling, and progress tracking for students in online learning. The goal is to improve time management
-abilities and academic performance in the online learning environment for both students and teachers
+abilities and academic performance in the online learning environment for both students and teachers.
 
